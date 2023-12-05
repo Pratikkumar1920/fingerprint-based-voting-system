@@ -1,0 +1,9 @@
+.text-white{color: #fff;}
+.bg-white {background-color: #fff;}
+
+
+
+.row bg-dark  text-center text-white{
+    justify-content: end;
+}
+
